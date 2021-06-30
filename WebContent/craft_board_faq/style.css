@@ -1,0 +1,40 @@
+   h3{
+   text-align: center;
+   }
+   
+   table{
+   margin: auto;
+   }
+
+   a:link,a:visited,a:active {
+   text-decoration : none;
+   color : black;
+   }
+   
+   a:hover {
+   text-decoration : none;
+   color : #6996bd;
+   }
+   
+   table #con {
+   margin: auto;
+   font-size:11pt;
+   border-collapse:collapse;
+   }
+   
+   .bot {
+   border-bottom: 1px solid #bfbfbf;
+   }
+   
+   
+   .top {
+   border-top: 1px solid #b6b6b6;
+   }
+   
+   #mid {
+   text-align:center;
+   }
+   
+   p{
+   font-size:11pt;
+   }

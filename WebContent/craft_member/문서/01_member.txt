@@ -1,0 +1,22 @@
+회원관리 MVC
+
+1.DB작업
+
+Model : 복사
+MemberDAO.java
+MemberDTO.java
+-------------------------------------
+
+2. Action작성
+
+3. WebContent/member/jsp작성
+
+4.command.properties등록
+/member/main.do=action.member.MainAction
+/member/loginPro.do=action.member.LoginProAction
+/member/logout.do=action.member.LogoutAction
+
+/member/confirmID.jsp : ID중복체크
+
+/member/inputForm.do=action.member.InputFormAction
+/member/inputPro.do=action.member.InputProAction
